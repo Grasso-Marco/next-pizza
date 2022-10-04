@@ -1,0 +1,15 @@
+{
+  "Login": "Login",
+  "E-mail": "E-mail",
+  "Password": "Password",
+  "Register": "Register",
+  "Name": "Name",
+  "Surname": "Surname",
+  "Country": "Country",
+  "State": "State",
+  "City": "City",
+  "PostalCode": "Postal code",
+  "Street": "Street",
+  "HouseNumber": "House number",
+  "ConfirmPassword": "Confirm password"
+}

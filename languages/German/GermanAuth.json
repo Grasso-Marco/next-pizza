@@ -1,0 +1,15 @@
+{
+  "Login": "Anmeldung",
+  "E-mail": "E-Mail",
+  "Password": "Passwort",
+  "Register": "Registrierung",
+  "Name": "Name",
+  "Surname": "Nachname",
+  "Country": "Land",
+  "State": "Bundesland",
+  "City": "Stadt",
+  "PostalCode": "Postleitzahl",
+  "Street": "Straße",
+  "HouseNumber": "Hausnummer",
+  "ConfirmPassword": "Passwort bestätigen"
+}

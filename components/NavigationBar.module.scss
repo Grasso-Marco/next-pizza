@@ -1,0 +1,13 @@
+.link {
+  text-decoration: none;
+  color: white;
+  margin-right: 1vw;
+  &:hover {
+    color: yellow;
+  }
+}
+
+.languageButton {
+  color: white;
+  text-transform: none;
+}
